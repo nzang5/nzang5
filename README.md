@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **nash.zangio@gmail.com**
 
-- ⚡ Fun fact **I love sports and anything related to travel**
+- ⚡ Fun fact **I love anything related to sports, finance or travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
