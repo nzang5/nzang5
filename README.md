@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">IT Admin| Learner| Aspiring Developper </h3>
 
 - 🌱 I’m currently learning **Front End Dev on FreeCodeCamp and Udemy**
 
