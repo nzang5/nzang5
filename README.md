@@ -4,7 +4,7 @@
 
 - 🤟 I'm a big fan of React
 
-- 💭 One day, I would love to become a IOS developer 
+- 💭 One day, I would love to become an IOS developer 
 
 - 💬 Ask me about anything [here](https://github.com/nzang5/nzang5/issues)
 
