@@ -1,5 +1,13 @@
 # Hi There, I'm Nash! ✌️
 
+- 🌱 Junior Web Developer from Canada but currently living in Berlin 🇩🇪 
+
+- 🤟 I'm a big fan of React
+
+- 💭 One day, I would love to become a IOS developer 
+
+- 💬 Ask me about anything [here](https://github.com/nzang5/nzang5/issues)
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nzang5&show_icons=true&theme=tokyonight" />
 
 <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzang5&layout=compact" />
