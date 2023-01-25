@@ -1,6 +1,6 @@
 # Hi There, I'm Nash! ✌️
 
-- 🌱 Junior Web Developer from Canada but currently living in Berlin 🇩🇪 
+- 🌱 Junior Web Developer from Canada 🇨🇦 but currently living in Berlin 🇩🇪 
 
 - 🤟 I'm a big fan of React
 
