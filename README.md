@@ -1,8 +1,8 @@
 # Hi There, I'm Nash! ✌️
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=nzang5&show_icons=true&theme=tokyonight" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nzang5&show_icons=true&theme=tokyonight" />
 
-<img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzang5&layout=compact" />
+<img  width="57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzang5&layout=compact" />
 
 
 
