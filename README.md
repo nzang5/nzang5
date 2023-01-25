@@ -2,7 +2,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nzang5&show_icons=true&theme=tokyonight" />
 
-<img  width="57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzang5&layout=compact" />
+<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzang5&layout=compact" />
 
 
 
