@@ -1,4 +1,4 @@
-# Hi There, I'm Nash! ✌️ 
+# Hi There, I'm Nash! ✌️ (New Account)
 
 - 🌱 Junior Mobile Developer from Canada 🇨🇦 but currently living in Berlin 🇩🇪 
 
