@@ -1,12 +1,8 @@
-# Hi There, I'm Nash! ✌️
+# Hi There, I'm Nash! ✌️ 
 
-- 🌱 Junior Web Developer from Canada 🇨🇦 but currently living in Berlin 🇩🇪 
+- 🌱 Junior Mobile Developer from Canada 🇨🇦 but currently living in Berlin 🇩🇪 
 
-- 🤟 I'm a big fan of React
-
-- 💭 One day, I would love to become an IOS developer 
-
-- 💬 Ask me about anything [here](https://github.com/nzang5/nzang5/issues)
+- 💭 The goal is to become an IOS developer 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nzang5&show_icons=true&theme=tokyonight" />
 
